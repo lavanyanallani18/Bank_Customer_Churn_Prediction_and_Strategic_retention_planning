@@ -7,8 +7,9 @@ Customer retention is a top priority in the banking industry, where losing clien
 By analyzing behavioral and financial attributes using Python-based tools, I supported the creation of actionable business insights and data-driven strategies to reduce attrition and improve customer lifetime value.
 
 <p align="center">
-  <img src="https://github.com/lavanyanallani18/project_images/blob/3d82fc4621703aaf8b3ea9ed1a820d7e66e56678/customer%20churn.png" width="500"/>
+  <img src="https://github.com/lavanyanallani18/project_images/blob/3d82fc4621703aaf8b3ea9ed1a820d7e66e56678/customer%20churn.png" width="700" height="400"/>
 </p>
+
 
 ---
 
