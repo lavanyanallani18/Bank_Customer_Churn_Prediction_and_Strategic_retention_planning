@@ -23,18 +23,6 @@ Traditional churn mitigation strategies are reactive and often miss early signs 
 
 ---
 
-## **Role and Responsibilities**
-
-As the Data Analyst on this project, I was responsible for:
-
-* Conducting exploratory data analysis (EDA) to uncover trends and risks.
-* Engineering features to capture underlying churn behavior.
-* Preprocessing and preparing data for machine learning.
-* Evaluating model performance and interpreting results.
-* Translating outputs into strategic business recommendations.
-
----
-
 ## **Dataset Summary**
 
 * **Source:** Bank Customer Churn Dataset
